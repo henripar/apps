@@ -1,0 +1,13 @@
+name: Luxhue
+description: 'Simple light controller for Philips Hue lights.'
+website: 'https://www.luxhue.org'
+repository: 'https://github.com/henripar/luxhue'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/henripar/luxhue/main/public/tv2.png'
+  - imageUrl: 'https://raw.githubusercontent.com/henripar/luxhue/main/public/frontpage2.png'
+keywords:
+  - 'home automation'
+  - 'smart lights'
+  - 'light controller'
+license: 'MIT'
+category: 'Lifestyle'
